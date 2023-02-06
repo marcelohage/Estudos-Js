@@ -20,4 +20,3 @@
  console.log('Escola '.concat(escola).concat("!"))
  // Concatenar uma string em outra ou em um literal (dado que nao armazena em uma variavel).
  
- console.log()
