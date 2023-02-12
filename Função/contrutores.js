@@ -1,5 +1,4 @@
-// contrutores: 
-
+// contrutores:
 function carro(velocidadeMaxima = 200, delta = 5){
     // Atributo Privado
     let velocidadeAtual = 0
